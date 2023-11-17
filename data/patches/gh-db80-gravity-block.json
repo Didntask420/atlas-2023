@@ -1,0 +1,79 @@
+{
+	"id": -1,
+	"name": "Gravity Block",
+	"description": "The Gravity Block from the Video Game Block Bros.",
+	"links": {
+		"website": [
+			"https://blockbros.fandom.com/wiki/Gravity_Block"
+		],
+		"subreddit": [
+			"blockbrosworld"
+		]
+	},
+	"path": {
+		"250": [
+			[
+				1423,
+				650
+			],
+			[
+				1423,
+				650
+			],
+			[
+				1423,
+				650
+			],
+			[
+				1423,
+				650
+			],
+			[
+				1423,
+				650
+			],
+			[
+				1423,
+				650
+			],
+			[
+				1422,
+				650
+			],
+			[
+				1423,
+				650
+			],
+			[
+				1432,
+				650
+			],
+			[
+				1432,
+				650
+			],
+			[
+				1432,
+				659
+			],
+			[
+				1432,
+				659
+			],
+			[
+				1423,
+				659
+			],
+			[
+				1423,
+				659
+			]
+		]
+	},
+	"center": {
+		"250": [
+			1428,
+			655
+		]
+	}
+}
